@@ -3,7 +3,7 @@
 - Windows 10/11 18363/26090+
 #### Installation Generic >
 - Install Strix_Soar_Setup_1.1.23.exe
-- Install ASMedia_USB3x_1.16.61.1 .inf
+- Install ASMedia_USB3x_1.16.61.1
 - Uninstall all packages, check via [Rapr][DriverStoreExplorer]
 - Restart PC
 - Unzip the .7z(Zstandard) archive
@@ -12,7 +12,7 @@
 - Restart PC
 #### Installation OEM >
 - Install Strix_Soar_Setup_1.1.23.exe
-- Install ASMedia_USB3x_1.16.61.1 .inf
+- Install ASMedia_USB3x_1.16.61.1
 - Uninstall all packages, check via [Rapr][DriverStoreExplorer]
 - Restart PC
 - Unzip the .7z(Zstandard) archive
