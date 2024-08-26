@@ -1,0 +1,1 @@
+# ASUS-Strix-Soar-SC150-
