@@ -2,6 +2,7 @@
 #### Compatibility >
 - Windows 10/11 18363/26090+
 #### Installation Generic >
+- Install Strix_Soar_Setup_1.1.23.exe
 - Uninstall all packages, check via [Rapr][DriverStoreExplorer]
 - Restart PC
 - Unzip the .7z(Zstandard) archive
@@ -9,6 +10,7 @@
 - Installation using  `Install_Default.cmd `
 - Restart PC
 #### Installation OEM >
+- Install Strix_Soar_Setup_1.1.23.exe
 - Uninstall all packages, check via [Rapr][DriverStoreExplorer]
 - Restart PC
 - Unzip the .7z(Zstandard) archive
