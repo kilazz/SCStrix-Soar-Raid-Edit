@@ -15,7 +15,7 @@
 - Restart PC
 - Unzip the .7z(Zstandard) archive
 - Run _CertTest/CertTest.bat(Admin)
-- Install  `only one` .cmd with `Install_Dolby.cmd `/ `Install_DTS.cmd `/ `Install_Nahimic.cmd `
+- Install `only one` using `Install_Dolby.cmd `/ `Install_DTS.cmd `/ `Install_Nahimic.cmd `
 - Restart PC
 
 [DriverStoreExplorer]: https://github.com/lostindark/DriverStoreExplorer
