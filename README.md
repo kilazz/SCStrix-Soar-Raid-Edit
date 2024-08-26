@@ -1,4 +1,4 @@
-## Strix Soar (SC150)
+## Strix Soar (SC150) Generic/OEM
 #### Compatibility >
 - Windows 10/11 18363/26090+
 #### Installation Generic >
