@@ -16,7 +16,7 @@
 - Unzip the .7z(Zstandard) archive
 - Run _CertTest/CertTest.bat(Admin)
 - #### Only one Ext
-- Installation using `Install_DolbyAtmos.cmd ` /  `Install_DTSXUltra.cmd ` /  `Install_Nahimic.cmd `
+- Installation using `Install_Dolby.cmd `/ `Install_DTS.cmd `/ `Install_Nahimic.cmd `
 - Restart PC
 
 [DriverStoreExplorer]: https://github.com/lostindark/DriverStoreExplorer
