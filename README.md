@@ -7,7 +7,7 @@
 - Restart PC
 - Unzip the .7z(Zstandard) archive
 - Run _CertTest/CertTest.bat(Admin)
-- Installation using  `Install_Default.cmd `
+- Install using `Install_Default.cmd `
 - Restart PC
 #### Installation OEM >
 - Install Strix_Soar_Setup_1.1.23.exe
@@ -15,8 +15,7 @@
 - Restart PC
 - Unzip the .7z(Zstandard) archive
 - Run _CertTest/CertTest.bat(Admin)
-- #### Only one Ext
-- Installation using `Install_Dolby.cmd `/ `Install_DTS.cmd `/ `Install_Nahimic.cmd `
+- Install  `only one` .cmd with `Install_Dolby.cmd `/ `Install_DTS.cmd `/ `Install_Nahimic.cmd `
 - Restart PC
 
 [DriverStoreExplorer]: https://github.com/lostindark/DriverStoreExplorer
