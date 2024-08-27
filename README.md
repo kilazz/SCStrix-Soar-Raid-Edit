@@ -17,5 +17,7 @@
 - Run _CertTest/`CertTest.bat`
 - Install `only one` using `Install_Dolby.cmd`/ `Install_DTS.cmd`/ `Install_Nahimic.cmd`
 - Restart PC
+#### Problems >
+- After running nhAsusStrixSonicStudioSC.exe a microfreeze for a couple of seconds is possible
 
 [DriverStoreExplorer]: https://github.com/lostindark/DriverStoreExplorer
