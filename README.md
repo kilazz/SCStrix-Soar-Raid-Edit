@@ -1,7 +1,7 @@
-## Strix Soar (SC150) Edit Generic/OEM
+## Strix Soar (SC150) Edit Default/OEM
 #### Compatibility >
 - Windows 10/11 x64 18363/26090+
-#### Installation Generic >
+#### Installation Default >
 - Install Strix_Soar_Setup_1.1.23.exe
 - Install ASMedia_USB3x_1.16.61.1
 - Remove package `nhAsusSC150.inf`, check via [Rapr][DriverStoreExplorer]
