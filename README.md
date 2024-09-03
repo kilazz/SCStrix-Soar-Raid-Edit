@@ -15,7 +15,7 @@
 - Remove package `nhAsusSC150.inf`, check via [Rapr][DriverStoreExplorer]
 - Unzip the .7z(Zstandard) archive
 - Run _CertTest/`CertTest.bat`
-- Install `only one` using `Install_Dolby.cmd`|`Install_DTS.cmd`|`Install_Nahimic.cmd`
+- Install `only one` using `Install_Dolby.cmd`/`Install_DTS.cmd`/`Install_Nahimic.cmd`
 - Restart PC
 #### Removal >
 - Remove all packages via [Rapr][DriverStoreExplorer]
