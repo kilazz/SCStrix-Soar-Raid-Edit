@@ -1,6 +1,6 @@
 ## Strix Soar (SC150) Edit Default/OEM
 #### Compatibility >
-- Windows 10/11 x64 18363/26100+
+- Windows 10/11 x64 19041/26100+
 #### Removal >
 - Remove all packages via [Rapr][DriverStoreExplorer]
 - Restart PC
