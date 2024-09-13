@@ -1,6 +1,6 @@
 ## Strix Soar (SC150) Edit Default/OEM
 #### Compatibility >
-- Windows 10/11 x64 18363/26090+
+- Windows 10/11 x64 18363/26100+
 #### Installation Default >
 - Install Strix_Soar_Setup_1.1.23.exe
 - Install ASMedia_USB3x_1.16.61.1
