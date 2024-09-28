@@ -1,4 +1,4 @@
-## Strix Soar (SC150) Edit Default/OEM
+## Strix Soar (SC150/SC200) Edit Default/OEM
 #### Compatibility >
 - Windows 10 x64 19041+
 #### Removal >
@@ -7,7 +7,7 @@
 #### Installation Default >
 - Install ASMedia_USB3x_1.16.61.1
 - Install Strix_Soar_Setup_1.1.23.exe
-- Remove package `nhAsusSC150.inf`, check via [Rapr][DriverStoreExplorer]
+- Remove package `nhAsusSC150.inf/nhAsusSC200.inf`, check via [Rapr][DriverStoreExplorer]
 - Unzip the .7z(Zstandard) archive
 - Run _CertTest/`CertTest.bat`
 - Install using `Install_Default.cmd`
@@ -15,7 +15,7 @@
 #### Installation OEM >
 - Install ASMedia_USB3x_1.16.61.1
 - Install Strix_Soar_Setup_1.1.23.exe
-- Remove package `nhAsusSC150.inf`, check via [Rapr][DriverStoreExplorer]
+- Remove package `nhAsusSC150.inf/nhAsusSC200.inf`, check via [Rapr][DriverStoreExplorer]
 - Unzip the .7z(Zstandard) archive
 - Run _CertTest/`CertTest.bat`
 - Install `only one` using `Install_Dolby.cmd`/`Install_DTS.cmd`/`Install_Nahimic.cmd`
