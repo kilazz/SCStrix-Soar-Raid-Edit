@@ -1,4 +1,4 @@
-## Strix Soar/Raid (SC150/SC200) Edit Default/OEM
+## Strix Soar/Raid Edit Default/OEM
 #### Compatibility >
 - Windows 10 x64 19041+
 #### Removal >
