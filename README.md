@@ -22,6 +22,5 @@
 - Restart PC
 #### Problems >
 - After running nhAsusStrixSonicStudioSC.exe a microfreeze for a couple of seconds is possible ~
-- DTS app not working properly ~
 
 [DriverStoreExplorer]: https://github.com/lostindark/DriverStoreExplorer
