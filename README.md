@@ -9,10 +9,10 @@
 - Install Strix_Soar_Setup_1.1.23.exe
 - Remove package `nhAsusSC150.inf/nhAsusSC200.inf`, check via [Rapr][DriverStoreExplorer]
 - Restart PC ~
-- Unzip the .7z(Zstandard) archive
+- Unzip the archive .7z(Zstandard)
 - Run _CertTest/`CertTest.bat` ~
 - Install `Only one` >
-- Default > 
+- Default >
 `Install_Default.cmd`
 - OEM >
 `Install_Dolby.cmd`
