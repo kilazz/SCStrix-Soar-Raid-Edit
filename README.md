@@ -10,7 +10,7 @@
 - Remove package `nhAsusSC150.inf/nhAsusSC200.inf`, check via [Rapr][DriverStoreExplorer]
 - Restart PC ~
 - Unzip the .7z(Zstandard) archive
-- Run _CertTest/`CertTest.bat`
+- Run _CertTest/`CertTest.bat` ~
 - Install `Only one` >
 - Default > 
 `Install_Default.cmd`
