@@ -18,7 +18,7 @@
 - Remove package `nhAsusSC150.inf/nhAsusSC200.inf`, check via [Rapr][DriverStoreExplorer]
 - Unzip the .7z(Zstandard) archive
 - Run _CertTest/`CertTest.bat`
-- Install `only one` using `Install_Dolby.cmd`/`Install_DTS.cmd`/`Install_Nahimic.cmd`
+- Install `only one` using `Install_Dolby.cmd`/`Install_DTS.cmd`/`Install_Nahimic.cmd`/`Install_SonicStudio3.cmd`
 - Restart PC
 #### Problems >
 - After running nhAsusStrixSonicStudioSC.exe a microfreeze for a couple of seconds is possible ~
