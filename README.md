@@ -15,8 +15,8 @@
 - Default >
 `Install_Default.cmd`
 - OEM >
-`Install_Dolby.cmd`
-`Install_DTS.cmd`
+`Install_DolbyAtmos.cmd`
+`Install_DTSXUltra.cmd`
 `Install_Nahimic.cmd`
 `Install_SonicStudio3.cmd`
 - Restart PC
