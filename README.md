@@ -18,7 +18,6 @@
 `Install_DolbyAtmos.cmd`
 `Install_DTSXUltra.cmd`
 `Install_Nahimic.cmd`
-`Install_SonicStudio3.cmd`
 - Restart PC
 #### Problems >
 - After running nhAsusStrixSonicStudioSC.exe a microfreeze for a couple of seconds is possible ~
