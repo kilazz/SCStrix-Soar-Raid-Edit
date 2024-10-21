@@ -2,7 +2,7 @@
 #### Compatibility >
 - Windows 10 x64 19041+
 #### Removal >
-- Remove all packages via [Rapr][DriverStoreExplorer]
+- Remove all packages, check via [Rapr][DriverStoreExplorer]
 - Restart PC
 #### Installation Default/OEM >
 - Install ASMedia_USB3x_1.16.61.1
