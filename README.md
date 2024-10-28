@@ -12,10 +12,10 @@
 - Install Strix_Soar_AsusSCStrix_Edit >
 - Run _CertTest/`CertTest.bat` ~
 - Install `Only one` >
-`Install_Default.cmd`
-`Install_DolbyAtmos.cmd`
-`Install_DTSXUltra.cmd`
-`Install_Nahimic.cmd`
+  - `Install_Default.cmd`
+  - `Install_DolbyAtmos.cmd`
+  - `Install_DTSXUltra.cmd`
+  - `Install_Nahimic.cmd`
 - Restart PC
 #### Problems >
 - After running nhAsusStrixSonicStudioSC.exe a microfreeze for a couple of seconds is possible ~
