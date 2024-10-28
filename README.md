@@ -10,7 +10,6 @@
 - Remove package `nhAsusSC150.inf/nhAsusSC200.inf`, check via [Rapr][DriverStoreExplorer]
 - Restart PC ~
 - Install Strix_Soar_AsusSCStrix_Edit >
-- Run _CertTest/`CertTest.bat` ~
 - Install `Only one` >
   - `Install_Default.cmd`
   - `Install_DolbyAtmos.cmd`
