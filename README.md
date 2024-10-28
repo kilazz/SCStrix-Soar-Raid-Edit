@@ -9,7 +9,7 @@
 - Install Strix_Soar_Setup_1.1.23
 - Remove package `nhAsusSC150.inf/nhAsusSC200.inf`, check via [Rapr][DriverStoreExplorer]
 - Restart PC ~
-- Strix_Soar_AsusSCStrix_Edit >
+- Install Strix_Soar_AsusSCStrix_Edit >
 - Run _CertTest/`CertTest.bat` ~
 - Install `Only one` >
 `Install_Default.cmd`
