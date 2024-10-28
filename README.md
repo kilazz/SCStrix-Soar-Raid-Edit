@@ -6,15 +6,13 @@
 - Restart PC
 #### Installation Default/OEM >
 - Install ASMedia_USB3x_1.16.61.1
-- Install Strix_Soar_Setup_1.1.23.exe
+- Install Strix_Soar_Setup_1.1.23
 - Remove package `nhAsusSC150.inf/nhAsusSC200.inf`, check via [Rapr][DriverStoreExplorer]
 - Restart PC ~
-- Strix_Soar_AsusSCStrix_Edit.7z >
+- Strix_Soar_AsusSCStrix_Edit >
 - Run _CertTest/`CertTest.bat` ~
 - Install `Only one` >
-- Default >
 `Install_Default.cmd`
-- OEM >
 `Install_DolbyAtmos.cmd`
 `Install_DTSXUltra.cmd`
 `Install_Nahimic.cmd`
