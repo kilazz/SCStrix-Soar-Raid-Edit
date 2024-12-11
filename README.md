@@ -1,6 +1,6 @@
 ## Strix Soar/Raid Edit Default/OEM
 #### Compatibility >
-- Windows 10 x64 19041+
+- Windows 10/11 x64 19041+
 #### Removal >
 - Remove all packages, check via [Rapr][DriverStoreExplorer]
 - Restart PC
