@@ -1,6 +1,7 @@
 ## Strix Soar/Raid Edit Default/OEM
 #### Compatibility >
 - Windows 10 x64 19041+
+- MSFT Proxy APO
 #### Removal >
 - Remove all packages, check via [Rapr][DriverStoreExplorer]
 - Restart PC
