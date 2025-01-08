@@ -17,6 +17,6 @@
 - Restart PC
 #### Problems >
 - After running nhAsusStrixSonicStudioSC.exe a microfreeze for a couple of seconds is possible ~
-- Need to restart DTS "DtsApo4Service" several times to work ~
+- You may have to restart DTS "DtsApo4Service" a few times to get it working ~
 
 [DriverStoreExplorer]: https://github.com/lostindark/DriverStoreExplorer
