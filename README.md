@@ -1,4 +1,4 @@
-## Strix Soar/Raid Edit Default/OEM
+## STRIX SOAR/RAID PRO/DLX Edit
 #### Compatibility >
 - Windows 10/11 x64 19041+
 #### Removal >
