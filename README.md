@@ -1,4 +1,4 @@
-# STRIX SOAR/RAID PRO/DLX Edit
+## STRIX SOAR/RAID PRO/DLX Edit
 
 ## Compatibility
 - **Supported OS:** Windows 10/11 x64, version 19041 and above
