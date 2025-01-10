@@ -4,7 +4,7 @@
 - **OS:** Windows 10/11 x64, version 19041 and above
 
 ## Removal Steps
-1. **Uninstall Packages:** Use [Rapr][DriverStoreExplorer] to remove all related packages.
+1. **Uninstall:** Use [Rapr][DriverStoreExplorer] to remove all related packages.
 2. **Restart:** Reboot your PC.
 
 ## Installation Steps
