@@ -13,7 +13,7 @@
 1. **Install ASMedia USB Drivers:** `ASMedia_USB3x_1.16.61.1`
 2. **Install STRIX SOAR Setup:** `Strix_Soar_Setup_1.1.23`
 3. **Remove Specific Packages:** `nhAsusSC150.inf`/`nhAsusSC200.inf`
-4. **Restart PC:** Reboot your computer. ~
+4. **Restart:** Reboot your PC. ~
 5. **Install STRIX SOAR ASUS SCStrix Edit:**
    - `Install_Default.cmd` for Default installation
    - `Install_DolbyAtmos.cmd` for Dolby Atmos support
