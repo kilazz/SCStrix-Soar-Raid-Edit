@@ -15,7 +15,7 @@
 3. **Remove Specific Packages:** `nhAsusSC150.inf`/`nhAsusSC200.inf`
 4. **Restart PC:** Reboot your computer. ~
 5. **Install STRIX SOAR ASUS SCStrix Edit:**
-   - `Install_Default.cmd` for default installation
+   - `Install_Default.cmd` for Default installation
    - `Install_DolbyAtmos.cmd` for Dolby Atmos support
    - `Install_DTSXUltra.cmd` for DTS X Ultra support
    - `Install_Nahimic.cmd` for Nahimic support
