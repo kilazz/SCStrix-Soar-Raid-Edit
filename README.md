@@ -13,7 +13,7 @@
 1. **Install ASMedia USB Drivers:** `ASMedia_USB3x_1.16.61.1`
 2. **Install STRIX SOAR Setup:** `Strix_Soar_Setup_1.1.23`
 3. **Remove Specific Packages:** `nhAsusSC150.inf`/`nhAsusSC200.inf`
-4. **Restart PC:** Reboot your computer.
+4. **Restart PC:** Reboot your computer. ~
 5. **Install STRIX SOAR ASUS SC Strix Edit:**
    - `Install_Default.cmd` for default installation
    - `Install_DolbyAtmos.cmd` for Dolby Atmos support
@@ -22,7 +22,7 @@
 6. **Restart PC:** Reboot your computer.
 
 ## Troubleshooting
-- **Microfreeze Issue:** A brief microfreeze may occur after running `nhAsusStrixSonicStudioSC.exe`.
-- **DTS Service:** Restart the **DtsApo4Service** multiple times if needed after rebooting.
+- **Microfreeze Issue:** A brief microfreeze may occur after running `nhAsusStrixSonicStudioSC.exe`. ~
+- **DTS Service:** Restart the **DtsApo4Service** multiple times if needed after rebooting. ~
 
 [DriverStoreExplorer]: https://github.com/lostindark/DriverStoreExplorer
