@@ -1,22 +1,28 @@
-## STRIX SOAR/RAID PRO/DLX Edit
-#### Compatibility >
-- Windows 10/11 x64 19041+
-#### Removal >
-- Remove all packages, check via [Rapr][DriverStoreExplorer]
-- Restart PC
-#### Installation Default/OEM >
-- Install ASMedia_USB3x_1.16.61.1
-- Install Strix_Soar_Setup_1.1.23
-- Remove package `nhAsusSC150.inf/nhAsusSC200.inf`, check via [Rapr][DriverStoreExplorer]
-- Restart PC ~
-- Install Strix_Soar_AsusSCStrix_Edit >
-  - `Install_Default.cmd`
-  - `Install_DolbyAtmos.cmd`
-  - `Install_DTSXUltra.cmd`
-  - `Install_Nahimic.cmd`
-- Restart PC
-#### Problems >
-- After running nhAsusStrixSonicStudioSC.exe a microfreeze for a couple of seconds is possible ~
-- You may need to restart DTS "DtsApo4Service" a few times after rebooting to get it working ~
+# STRIX SOAR/RAID PRO/DLX Edit
+
+## Compatibility
+- **Supported OS:** Windows 10/11 x64, version 19041 and above
+
+## Removal Steps
+1. **Uninstall Packages:** Use [Rapr][DriverStoreExplorer] to remove all related packages.
+2. **Restart PC:** Reboot your computer.
+
+## Installation Steps
+
+### Default/OEM Installation
+1. **Install ASMedia USB Drivers:** `ASMedia_USB3x_1.16.61.1`
+2. **Install STRIX SOAR Setup:** `Strix_Soar_Setup_1.1.23`
+3. **Remove Specific Packages:** `nhAsusSC150.inf`/`nhAsusSC200.inf`
+4. **Restart PC:** Reboot your computer.
+5. **Install STRIX SOAR ASUS SC Strix Edit:**
+   - `Install_Default.cmd` for default installation
+   - `Install_DolbyAtmos.cmd` for Dolby Atmos support
+   - `Install_DTSXUltra.cmd` for DTS X Ultra support
+   - `Install_Nahimic.cmd` for Nahimic support
+6. **Restart PC:** Reboot your computer.
+
+## Troubleshooting
+- **Microfreeze Issue:** A brief microfreeze may occur after running `nhAsusStrixSonicStudioSC.exe`.
+- **DTS Service:** Restart the **DtsApo4Service** multiple times if needed after rebooting.
 
 [DriverStoreExplorer]: https://github.com/lostindark/DriverStoreExplorer
