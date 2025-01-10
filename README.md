@@ -1,11 +1,11 @@
 ## STRIX SOAR/RAID PRO/DLX Edit
 
 ## Compatibility
-- **Supported OS:** Windows 10/11 x64, version 19041 and above
+- **OS:** Windows 10/11 x64, version 19041 and above
 
 ## Removal Steps
 1. **Uninstall Packages:** Use [Rapr][DriverStoreExplorer] to remove all related packages.
-2. **Restart PC:** Reboot your computer.
+2. **Restart:** Reboot your PC.
 
 ## Installation Steps
 
@@ -19,10 +19,10 @@
    - `Install_DolbyAtmos.cmd` for Dolby Atmos support
    - `Install_DTSXUltra.cmd` for DTS X Ultra support
    - `Install_Nahimic.cmd` for Nahimic support
-6. **Restart PC:** Reboot your computer.
+6. **Restart:** Reboot your PC.
 
 ## Troubleshooting
 - **Microfreeze Issue:** A brief microfreeze may occur after running `nhAsusStrixSonicStudioSC.exe`. ~
-- **DTS Service:** Restart **DtsApo4Service** multiple times if needed after rebooting. ~
+- **DTS Service:** Restart **DtsApo4Service** multiple times if needed. ~
 
 [DriverStoreExplorer]: https://github.com/lostindark/DriverStoreExplorer
