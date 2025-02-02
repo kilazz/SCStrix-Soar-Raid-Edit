@@ -3,11 +3,11 @@
 ## Compatibility
 - **OS:** Windows 10/11 x64, version 19041 and above.
 
-## Removal Steps
+## Removal
 1. **Uninstall:** Use [Rapr][DriverStoreExplorer] to remove all related packages.
 2. **Restart:** Reboot your PC.
 
-## Installation Steps
+## Installation
 
 ### Default/OEM Installation
 1. **Install ASMedia USB Drivers:** `ASMedia_USB3x_1.16.61.1`.
