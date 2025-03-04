@@ -23,6 +23,5 @@
 
 ## Troubleshooting
 - **Microfreeze Issue:** A brief microfreeze may occur after running `nhAsusStrixSonicStudioSC.exe`. ~
-- **DTS Service:** If encountering issues, restart the **DtsApo4Service** multiple times if necessary. ~
 
 [DriverStoreExplorer]: https://github.com/lostindark/DriverStoreExplorer
