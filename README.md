@@ -1,27 +1,27 @@
-# STRIX SOAR/RAID PRO/DLX Edit
-
+# STRIX SOAR/RAIDR PRO/DLX Edit
 ## Compatibility
-- **OS:** Windows 10/11 x64, version 19041 and above.
-
+- **OS:** Windows 10/11 (64-bit), version 19041 or later.
 ## Removal
 1. **Uninstall:** Use [Rapr][DriverStoreExplorer] to remove all related packages.
 2. **Restart:** Reboot your PC.
-
 ## Installation
-
 ### Default/OEM Installation
-1. **Install ASMedia USB Drivers:** `ASMedia_USB3x_1.16.61.1`.
-2. **Install STRIX SOAR Setup:** `Strix_Soar_Setup_1.1.23`.
-3. **Remove Specific Packages:** `nhAsusSC150.inf`/`nhAsusSC200.inf`.
-4. **Restart:** Reboot your PC. ~
+1. **Install ASMedia USB Drivers:** Run `ASMedia_USB3x_1.16.61.1` to install the ASMedia USB 3.x drivers.
+2. **Install STRIX SOAR Setup:** Run `Strix_Soar_Setup_1.1.23` to install the base STRIX SOAR software.
+3. **Remove Specific Packages:**
+   - Use DriverStore Explorer to delete the following packages:
+     - `nhAsusSC150.inf`
+     - `nhAsusSC200.inf`
+4. **Restart:** Reboot your PC.
 5. **Install STRIX SOAR ASUS SCStrix Edit:**
-   - Run `Install_Default.cmd` for Default installation.
-   - Run `Install_DolbyAtmos.cmd` for Dolby Atmos support.
-   - Run `Install_DTSXUltra.cmd` for DTS X Ultra support.
-   - Run `Install_Nahimic.cmd` for Nahimic support.
-6. **Restart:** Reboot your PC.
-
+   - Choose one of the following installation scripts based on your preference:
+     - Run `Install_Default.cmd` for the default installation.
+     - Run `Install_DolbyAtmos.cmd` for Dolby Atmos support.
+     - Run `Install_DTSXUltra.cmd` for DTS X Ultra support.
+     - Run `Install_Nahimic.cmd` for Nahimic support.
+6. **Restart:** Reboot your PC to finalize the installation.
 ## Troubleshooting
-- **Microfreeze Issue:** A brief microfreeze may occur after running `nhAsusStrixSonicStudioSC.exe`. ~
+- **Microfreeze Issue:**
+   - A brief microfreeze may occur after running `nhAsusStrixSonicStudioSC.exe`. This is a known issue and typically resolves itself.
 
 [DriverStoreExplorer]: https://github.com/lostindark/DriverStoreExplorer
