@@ -2,8 +2,8 @@
 ## Compatibility
 - **OS:** Windows 10/11 (64-bit), version 19041 or later.
 ## Removal
-1. **Uninstall:** Use [Rapr][DriverStoreExplorer] to remove all related packages.
-2. **Restart:** Reboot your PC.
+1. **Uninstall:** Use [RAPR][DriverStoreExplorer] to remove all related packages.
+2. **Restart:** Reboot PC.
 ## Installation
 ### Default/OEM Installation
 1. **Install ASMedia USB Drivers:** Run `ASMedia_USB3x_1.16.61.1` to install the ASMedia USB 3.x drivers.
@@ -12,7 +12,7 @@
    - Use DriverStore Explorer to delete the following packages:
      - `nhAsusSC150.inf`
      - `nhAsusSC200.inf`
-4. **Restart:** Reboot your PC.
+4. **Restart:** Reboot PC.
 5. **Install STRIX SOAR ASUS SCStrix Edit:**
    - Choose one of the following installation scripts based on your preference:
      - Run `Install_Default.cmd` for the default installation.
