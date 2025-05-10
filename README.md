@@ -20,8 +20,5 @@
      - Run `Install_DTSXUltra.cmd` for DTS X Ultra support.
      - Run `Install_Nahimic.cmd` for Nahimic support.
 6. **Restart:** Reboot your PC to finalize the installation.
-## Troubleshooting
-- **Microfreeze Issue:**
-   - A brief microfreeze may occur after running `nhAsusStrixSonicStudioSC.exe`. This is a known issue and typically resolves itself.
 
 [DriverStoreExplorer]: https://github.com/lostindark/DriverStoreExplorer
