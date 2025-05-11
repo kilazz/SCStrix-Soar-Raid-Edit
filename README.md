@@ -11,5 +11,8 @@
 4. Run `AsusSCStrixInstaller.ps1`.
 5. Install the required configuration.
 6. Restart PC.
+## Troubleshooting
+- **Microfreeze Issue:**
+   - A brief microfreeze may occur after running `nhAsusStrixSonicStudioSC.exe`. This is a known issue and typically resolves itself.
 
 [DriverStoreExplorer]: https://github.com/lostindark/DriverStoreExplorer
