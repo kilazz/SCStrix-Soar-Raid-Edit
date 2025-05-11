@@ -2,7 +2,7 @@
 ## Compatibility
 - Windows 10/11 x64 (Build 19041 or later) support.
 ## Features
-- Default, Dolby Atmos, DTS X Ultra, Nahimic support.
+- Default, DolbyAtmos, DTSXUltra, Nahimic support.
 - Enhancements Tab support.
 ## Default/OEM Installation
 1. Install `ASMedia_USB3x_1.16.61.1`.
