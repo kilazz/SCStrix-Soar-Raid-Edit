@@ -13,7 +13,7 @@
 6. Install the required configuration.
 7. Restart PC.
 ## Troubleshooting
-   - A brief microfreeze may occur after running `nhAsusStrixSonicStudioSC.exe`. This is a known issue and typically resolves itself.
-   - After upgrading to a new windows build you may need to reinstall the driver, not sure what the problem is.
+   - After launching `nhAsusStrixSonicStudioSC.exe`, a brief micro-freeze may occur. This is a known issue that usually resolves itself.
+   - After updating to a new Windows build, you may need to reinstall a driver. Not sure what the issue is.
 
 [DriverStoreExplorer]: https://github.com/lostindark/DriverStoreExplorer
