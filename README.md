@@ -15,5 +15,7 @@
 ## Troubleshooting
 - **Microfreeze Issue:**
    - A brief microfreeze may occur after running `nhAsusStrixSonicStudioSC.exe`. This is a known issue and typically resolves itself.
+- **Windows build update:**
+   - After upgrading to a new windows build you may need to reinstall the driver, not sure what the problem is.
 
 [DriverStoreExplorer]: https://github.com/lostindark/DriverStoreExplorer
