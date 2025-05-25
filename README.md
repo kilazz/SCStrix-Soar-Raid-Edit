@@ -4,14 +4,16 @@
 ## Features
 - Default, DolbyAtmos, DTSXUltra, Nahimic support.
 - Enhancements Tab support.
+### Prerequisites
+1. Uninstall existing `nhAsusSC150.inf`/`nhAsusSC200.inf` drivers using [RAPR][DriverStoreExplorer].
+2. Restart PC.
 ## Default/OEM Installation
 1. Install `ASMedia_USB3x_1.16.61.1`.
 2. Install `Strix_Soar_Setup_1.1.23`.
-3. Uninstall existing `nhAsusSC150.inf`/`nhAsusSC200.inf` drivers using [RAPR][DriverStoreExplorer].
-4. Run `AsusSCStrixInstaller.cmd`.
-5. Remove Drivers.
-6. Install the required configuration.
-7. Restart PC.
+3. Run `AsusSCStrixInstaller.cmd`.
+4. Remove Drivers.
+5. Install the required configuration.
+6. Restart PC.
 ## Troubleshooting
    - After launching `nhAsusStrixSonicStudioSC.exe`, a brief micro-freeze may occur. This is a known issue that usually resolves itself.
 
