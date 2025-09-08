@@ -14,7 +14,5 @@
 4. Remove Drivers.
 5. Install the required configuration.
 6. Restart PC.
-## Troubleshooting
-   - After launching `nhAsusStrixSonicStudioSC.exe`, a brief micro-freeze may occur. This is a known issue that usually resolves itself.
 
 [DriverStoreExplorer]: https://github.com/lostindark/DriverStoreExplorer
