@@ -20,6 +20,6 @@
 6. Restart PC.
 
 ## Troubleshooting
-- If DTS functionality is not working after installation, restart the corresponding DTS service.
+- If DTS functionality is not working after installation, restart the DTS service.
 
 [DriverStoreExplorer]: https://github.com/lostindark/DriverStoreExplorer
