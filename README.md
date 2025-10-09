@@ -8,7 +8,7 @@
 - Enhancements Tab support.
 
 ### Prerequisites
-1. Uninstall existing `nhAsusSC150.inf`/`nhAsusSC200.inf` drivers using [RAPR][DriverStoreExplorer].
+1. Uninstall existing `nhAsusSC150.inf`/`nhAsusSC200.inf` drivers using [DriverStoreExplorer (RAPR)][DriverStoreExplorer].
 2. Restart PC.
 
 ## Default/OEM Installation
