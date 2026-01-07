@@ -12,7 +12,7 @@
 2. Restart PC.
 
 ## Default/OEM Installation
-1. Install `ASMedia_USB3x_1.16.61.1`. ~
+1. Install `ASMedia_USB3x_1.16.61.1`. (Do not install, use Microsoft driver) ~
 2. Install `Strix_Soar_Setup_1.1.23`.
 3. Run `AsusSCStrixInstaller.cmd`.
 4. Remove Drivers.
