@@ -20,6 +20,8 @@
 6. Restart PC.
 
 ## Troubleshooting
-- If DTS functionality is not working after installation, restart the DTS service a few times.
+- **DTS Issues**: If DTS does not work, restart the DTS service a few times.
+- **Windows Update**: Use **Toggle WU Driver Updates** and **Reset WU Cache & Ghost Devices** in the installer menu.
+- **Voice Call Volume Drop**: Win+R -> `mmsys.cpl` -> Communications tab -> Select "Do nothing".
 
 [DriverStoreExplorer]: https://github.com/lostindark/DriverStoreExplorer
